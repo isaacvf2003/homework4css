@@ -1,0 +1,28 @@
+:root{
+    background-color: rgb(166, 253, 253);
+}
+.tit{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.txt1{
+    font-size: 1.2rem;
+    padding: 2rem;
+}
+.tit2{
+    font-size: 2rem;
+    padding: 1rem 3rem;
+}
+.txt2{
+    font-size: 1.2rem;
+    padding: 2rem;
+}
+
+.fom2{
+    border: 1px black solid;
+    padding: 1rem;
+    margin: 1rem 20rem;
+    font-size: 1.5rem;
+}

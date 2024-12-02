@@ -1,0 +1,135 @@
+:root{
+    background-color: rgb(241, 207, 133);
+}
+.title1{
+    color: rgb(247, 82, 6);
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2rem;
+}
+.span{
+    color: rgb(145, 0, 60);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    font-size: 2rem;
+    padding: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info{
+    text-align: center;
+    font-size: 3rem;
+    border: 1px black solid;
+    margin: 2rem 25rem;
+    padding: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+.info:hover{
+    transition: 700ms;
+    background-color: aquamarine;
+}
+.img{
+    width: 28rem;
+    position: absolute;
+    left: 65%;
+    top: 60%;
+}
+
+.txt{
+    font-size: 1.5rem;
+    padding: 5rem 30rem 10rem 3rem;   
+}
+
+.title2{
+    font-size: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.ls1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3rem;
+    text-align: right;
+}
+
+.herramienta{
+    width: 10rem;
+    display: flex;
+    justify-content: end;
+    padding: 1rem 2rem;
+}
+
+
+
+.mano{
+    width: 10rem;
+    display: flex;
+    justify-content: end;
+    padding: 1rem 3rem;
+}
+
+.l3{
+    text-align: center;
+   
+}
+
+.proteccion{
+    width: 10rem;
+    display: flex;
+    justify-content: end;
+    padding: 1rem 3rem;
+}
+
+.title3{
+    font-size: 2rem;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0rem 1rem;
+    margin: 3rem;
+}
+
+.lista{
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 3rem;
+    height: 30vh;
+}
+
+.lis1{
+    color: rgb(122, 90, 1);
+    padding: 1rem;
+}
+
+.lis2{
+    color: rgb(104, 80, 2);
+    padding: 1rem;
+}
+
+.lis3{
+    color: rgb(124, 87, 8);
+    padding: 1rem;
+}
+
+.form1{
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1rem 2rem;
+}
+
+.ft{
+    font-size: 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1rem 3rem;
+}
